@@ -7,7 +7,7 @@
 - 🌱 我正在深入探索：**深度学习算法优化 & 图像处理**
 - 🎓 我的教育背景：**HUST (M.S.) / DUT (B.E.)**
 - 💬 欢迎和我讨论：**AI, Deep Learning, Software Engineering**
-- 📫 如何联系我：(这里可以填你的邮箱)
+- 📫 如何联系我：ragazzo_dd27@outlook.com
 
 ---
 
